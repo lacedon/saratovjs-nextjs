@@ -1,0 +1,47 @@
+.item {
+  padding: 1rem 2rem;
+  box-sizing: border-box;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 1.1em;
+  text-align: center;
+}
+
+.weather {
+  font-size: 0;
+  width: 50%;
+  padding-bottom: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  background: center center no-repeat;
+}
+
+.row:not(:first-child) {
+  margin-top: 0.5rem;
+}
+
+.row {
+  text-align: center;
+}
+
+.label {
+  font-size: 0.75em;
+  font-weight: bold;
+}
+
+.values {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.units {
+  font-size: 0.75em;
+}

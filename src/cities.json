@@ -1,0 +1,436 @@
+[
+  {
+    "id": "ru-sebrovo",
+    "country": "RU",
+    "name": "Sebrovo",
+    "lat": "50.0981",
+    "lng": "43.2976"
+  },
+  {
+    "id": "ru-sebezh",
+    "country": "RU",
+    "name": "Sebezh",
+    "lat": "56.28511",
+    "lng": "28.48187"
+  },
+  {
+    "id": "ru-sazonovo",
+    "country": "RU",
+    "name": "Sazonovo",
+    "lat": "59.0919",
+    "lng": "35.2268"
+  },
+  {
+    "id": "ru-savino",
+    "country": "RU",
+    "name": "Savino",
+    "lat": "56.59285",
+    "lng": "41.21814"
+  },
+  {
+    "id": "ru-savinka",
+    "country": "RU",
+    "name": "Savinka",
+    "lat": "50.07848",
+    "lng": "47.09936"
+  },
+  {
+    "id": "ru-savasleyka",
+    "country": "RU",
+    "name": "Savasleyka",
+    "lat": "55.4606",
+    "lng": "42.3207"
+  },
+  {
+    "id": "ru-satka",
+    "country": "RU",
+    "name": "Satka",
+    "lat": "55.0425",
+    "lng": "59.04"
+  },
+  {
+    "id": "ru-satis",
+    "country": "RU",
+    "name": "Satis",
+    "lat": "54.9229",
+    "lng": "43.22977"
+  },
+  {
+    "id": "ru-satinka",
+    "country": "RU",
+    "name": "Satinka",
+    "lat": "52.37923",
+    "lng": "41.68192"
+  },
+  {
+    "id": "ru-sasykoli",
+    "country": "RU",
+    "name": "Sasykoli",
+    "lat": "47.55153",
+    "lng": "46.99679"
+  },
+  {
+    "id": "ru-sary-tyuz",
+    "country": "RU",
+    "name": "Sary-Tyuz",
+    "lat": "43.90181",
+    "lng": "41.89523"
+  },
+  {
+    "id": "ru-sars",
+    "country": "RU",
+    "name": "Sars",
+    "lat": "56.55017",
+    "lng": "57.13658"
+  },
+  {
+    "id": "ru-sarov",
+    "country": "RU",
+    "name": "Sarov",
+    "lat": "54.93583",
+    "lng": "43.32352"
+  },
+  {
+    "id": "ru-sarmanovo",
+    "country": "RU",
+    "name": "Sarmanovo",
+    "lat": "55.25529",
+    "lng": "52.58907"
+  },
+  {
+    "id": "ru-sarmakovo",
+    "country": "RU",
+    "name": "Sarmakovo",
+    "lat": "43.74556",
+    "lng": "43.20028"
+  },
+  {
+    "id": "ru-saratovskaya",
+    "country": "RU",
+    "name": "Saratovskaya",
+    "lat": "44.70752",
+    "lng": "39.22156"
+  },
+  {
+    "id": "ru-saratov",
+    "country": "RU",
+    "name": "Saratov",
+    "lat": "51.54056",
+    "lng": "46.00861"
+  },
+  {
+    "id": "ru-sarapul",
+    "country": "RU",
+    "name": "Sarapul",
+    "lat": "56.47633",
+    "lng": "53.79782"
+  },
+  {
+    "id": "ru-sarany",
+    "country": "RU",
+    "name": "Sarany",
+    "lat": "58.5",
+    "lng": "58.88333"
+  },
+  {
+    "id": "ru-saransk",
+    "country": "RU",
+    "name": "Saransk",
+    "lat": "54.1838",
+    "lng": "45.1749"
+  },
+  {
+    "id": "ru-sarana",
+    "country": "RU",
+    "name": "Sarana",
+    "lat": "56.47728",
+    "lng": "57.72586"
+  },
+  {
+    "id": "ru-saraktash",
+    "country": "RU",
+    "name": "Saraktash",
+    "lat": "51.78771",
+    "lng": "56.36091"
+  },
+  {
+    "id": "ru-sarai",
+    "country": "RU",
+    "name": "Sarai",
+    "lat": "53.74577",
+    "lng": "41.02126"
+  },
+  {
+    "id": "ru-sapozhok",
+    "country": "RU",
+    "name": "Sapozhok",
+    "lat": "53.94194",
+    "lng": "40.68056"
+  },
+  {
+    "id": "ru-sapërnyy",
+    "country": "RU",
+    "name": "Sapërnyy",
+    "lat": "59.77611",
+    "lng": "30.66139"
+  },
+  {
+    "id": "ru-sapernoye",
+    "country": "RU",
+    "name": "Sapernoye",
+    "lat": "60.71418",
+    "lng": "29.95525"
+  },
+  {
+    "id": "ru-saint-petersburg",
+    "country": "RU",
+    "name": "Saint Petersburg",
+    "lat": "59.93863",
+    "lng": "30.31413"
+  },
+  {
+    "id": "ru-sandovo",
+    "country": "RU",
+    "name": "Sandovo",
+    "lat": "58.46022",
+    "lng": "36.41277"
+  },
+  {
+    "id": "ru-sandata",
+    "country": "RU",
+    "name": "Sandata",
+    "lat": "46.27081",
+    "lng": "41.75834"
+  },
+  {
+    "id": "ru-sanchursk",
+    "country": "RU",
+    "name": "Sanchursk",
+    "lat": "56.94125",
+    "lng": "47.24987"
+  },
+  {
+    "id": "ru-samur",
+    "country": "RU",
+    "name": "Samur",
+    "lat": "41.82527",
+    "lng": "48.48597"
+  },
+  {
+    "id": "ru-samoylovka",
+    "country": "RU",
+    "name": "Samoylovka",
+    "lat": "51.184",
+    "lng": "43.7081"
+  },
+  {
+    "id": "ru-samoded",
+    "country": "RU",
+    "name": "Samoded",
+    "lat": "63.6083",
+    "lng": "40.5111"
+  },
+  {
+    "id": "ru-sambek",
+    "country": "RU",
+    "name": "Sambek",
+    "lat": "47.74306",
+    "lng": "39.83083"
+  },
+  {
+    "id": "ru-samashki",
+    "country": "RU",
+    "name": "Samashki",
+    "lat": "43.29056",
+    "lng": "45.30139"
+  },
+  {
+    "id": "ru-samarskoye",
+    "country": "RU",
+    "name": "Samarskoye",
+    "lat": "46.937",
+    "lng": "39.6881"
+  },
+  {
+    "id": "ru-samara",
+    "country": "RU",
+    "name": "Samara",
+    "lat": "53.20007",
+    "lng": "50.15"
+  },
+  {
+    "id": "ru-saltykovka",
+    "country": "RU",
+    "name": "Saltykovka",
+    "lat": "55.76679",
+    "lng": "37.93533"
+  },
+  {
+    "id": "ru-sal’sk",
+    "country": "RU",
+    "name": "Sal’sk",
+    "lat": "46.4747",
+    "lng": "41.54114"
+  },
+  {
+    "id": "ru-salmi",
+    "country": "RU",
+    "name": "Salmi",
+    "lat": "61.36971",
+    "lng": "31.85185"
+  },
+  {
+    "id": "ru-salavat",
+    "country": "RU",
+    "name": "Salavat",
+    "lat": "53.38365",
+    "lng": "55.90773"
+  },
+  {
+    "id": "ru-sakmara",
+    "country": "RU",
+    "name": "Sakmara",
+    "lat": "51.98438",
+    "lng": "55.3338"
+  },
+  {
+    "id": "ru-sakharovo",
+    "country": "RU",
+    "name": "Sakharovo",
+    "lat": "56.89949",
+    "lng": "36.05015"
+  },
+  {
+    "id": "ru-sagopshi",
+    "country": "RU",
+    "name": "Sagopshi",
+    "lat": "43.48515",
+    "lng": "44.59063"
+  },
+  {
+    "id": "ru-safonovo",
+    "country": "RU",
+    "name": "Safonovo",
+    "lat": "69.06043",
+    "lng": "33.29523"
+  },
+  {
+    "id": "ru-safonovo",
+    "country": "RU",
+    "name": "Safonovo",
+    "lat": "55.15",
+    "lng": "33.21667"
+  },
+  {
+    "id": "ru-sadovoye",
+    "country": "RU",
+    "name": "Sadovoye",
+    "lat": "51.53111",
+    "lng": "40.50194"
+  },
+  {
+    "id": "ru-sadovoye",
+    "country": "RU",
+    "name": "Sadovoye",
+    "lat": "47.7772",
+    "lng": "44.5208"
+  },
+  {
+    "id": "ru-sachkovichi",
+    "country": "RU",
+    "name": "Sachkovichi",
+    "lat": "52.3459",
+    "lng": "32.2246"
+  },
+  {
+    "id": "ru-sabnova",
+    "country": "RU",
+    "name": "Sabnova",
+    "lat": "42.07617",
+    "lng": "48.24796"
+  },
+  {
+    "id": "ru-rzhev",
+    "country": "RU",
+    "name": "Rzhev",
+    "lat": "56.26241",
+    "lng": "34.32817"
+  },
+  {
+    "id": "ru-rzhavki",
+    "country": "RU",
+    "name": "Rzhavki",
+    "lat": "56",
+    "lng": "37.25"
+  },
+  {
+    "id": "ru-rzhanitsa",
+    "country": "RU",
+    "name": "Rzhanitsa",
+    "lat": "53.42844",
+    "lng": "33.92297"
+  },
+  {
+    "id": "ru-rzhaksa",
+    "country": "RU",
+    "name": "Rzhaksa",
+    "lat": "52.13384",
+    "lng": "42.0264"
+  },
+  {
+    "id": "ru-ryzdvyanyy",
+    "country": "RU",
+    "name": "Ryzdvyanyy",
+    "lat": "45.2656",
+    "lng": "41.8389"
+  },
+  {
+    "id": "ru-rybnoye",
+    "country": "RU",
+    "name": "Rybnoye",
+    "lat": "54.72774",
+    "lng": "39.51731"
+  },
+  {
+    "id": "ru-rybnaya-sloboda",
+    "country": "RU",
+    "name": "Rybnaya Sloboda",
+    "lat": "55.46129",
+    "lng": "50.1409"
+  },
+  {
+    "id": "ru-rybinsk",
+    "country": "RU",
+    "name": "Rybinsk",
+    "lat": "58.0446",
+    "lng": "38.84259"
+  },
+  {
+    "id": "ru-rybatskoye",
+    "country": "RU",
+    "name": "Rybatskoye",
+    "lat": "59.8393",
+    "lng": "30.49873"
+  },
+  {
+    "id": "ru-ryazhsk",
+    "country": "RU",
+    "name": "Ryazhsk",
+    "lat": "53.7038",
+    "lng": "40.1109"
+  },
+  {
+    "id": "ru-ryazanskaya",
+    "country": "RU",
+    "name": "Ryazanskaya",
+    "lat": "44.95528",
+    "lng": "39.58894"
+  },
+  {
+    "id": "ru-ryazan’",
+    "country": "RU",
+    "name": "Ryazan’",
+    "lat": "54.6269",
+    "lng": "39.6916"
+  }
+]

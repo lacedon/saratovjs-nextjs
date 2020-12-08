@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "paths": {
+      "@/services/*": ["./services/*"],
+      "@/components/*": ["./components/*"],
+      "@/cities.json": ["./cities.json"]
+    }
+  }
+}
